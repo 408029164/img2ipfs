@@ -1,6 +1,6 @@
 # ipfs图床
 
-演示：https://ipfs.gq/
+演示：https://ipfs.jacklou.tk/
 
 上传图片等文件到ipfs
 
